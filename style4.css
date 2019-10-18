@@ -1,0 +1,254 @@
+@media screen and (max-width:900px){
+*{
+	
+	}
+}
+
+@media screen and (max-width: 900px) {
+    body {
+	width:100%;
+        min-height: 485px;
+        overflow: hidden;
+        position: relative;        
+	}
+}
+
+@media screen and (max-width: 900px) {
+.biggest{
+	width:100%;
+	min-width:0px;
+	}
+}
+
+@media screen and (max-width:900px){
+.small-picture{
+	width:50px;
+	height:50px;
+	margin:20px 20px 20px 20px;
+	background: url(index.png) no-repeat center center;
+	background-size: cover;
+	float:left;
+	}
+}
+
+@media screen and (max-width:900px){
+.head{
+    width: 100%;
+    min-width: 0px;
+    height: 67%;
+    background: url(g_banner_background.png) no-repeat center center;
+    background-size: cover;
+    -webkit-background-size:cover;
+    -o-background-size:cover:
+    background-position:center 0;
+	}
+}
+
+@media screen and (max-width:900px){
+.big-head{
+	width:100%;
+	height:0;
+	}
+}
+
+@media screen and (max-width:900px){
+.big-content{
+	width:100%;
+	height:100%;
+	}
+}
+
+
+@media screen and (max-width:900px){
+.writing-gonggongone{
+	display: inline-block;
+    line-height: 47px;
+    font-size: 30px;
+    color: #fff;
+    width:auto;
+	}
+}
+
+@media screen and (max-width:900px){
+ul{
+	display:none;
+	}
+}
+
+@media screen and (max-width:900px){
+.big-content{
+	width:100%;
+	height:100%;
+	}
+}
+
+@media screen and (max-width:900px){
+.small-content{
+	width:88%;
+	padding: 90px 0 0 7%;
+	}
+}
+
+@media screen and (max-width:900px){
+.writing-gonggongtwo{
+	font-size:35px;
+	}
+}
+
+@media screen and (max-width:900px){
+.writing-forandroid{
+	float:none;
+	top:52px;
+	left:-6px;
+	}
+}
+
+@media screen and (max-width:900px){
+.writing-beta{
+	float:none;
+	
+	}
+}
+
+@media screen and (max-width:900px){
+.long:after {
+	display:none;
+	}
+}
+
+@media screen and (max-width:900px){
+.long{
+	font-size:30px;
+	width:88%;
+	}
+}
+
+@media screen and (max-width:900px){
+.writing-for android{
+	display:inline-block;
+	}
+}
+
+@media screen and (max-width:900px){
+.writing-beta{
+	display: inline-block;
+    height: 25px;
+    width: 80px;
+    font-size: 15px;
+    line-height: 25px;
+    margin-left: 0px;
+    position: absolute;
+    top: 23px;
+    left: 80px;
+	
+	}	
+}
+
+@media screen and (max-width:900px){
+.writing-xiangda{
+	display:none;
+	}
+}
+
+@media screen and (max-width:900px){
+.writing-download{
+	width:100%;
+	height:100%;
+	line-height:70px;
+	font-size:20px;
+	}
+}
+
+@media screen and (max-width:900px){
+.picture-download{
+	display:none;
+	}
+}
+
+@media screen and (max-width:900px){
+.download{
+	height:70px;
+	width:45%;
+	max-width:280px;
+	}
+}
+
+@media screen and (max-width:900px){
+.mb{
+	font-size:12px;
+	}
+}
+
+@media screen and (max-width:900px){
+.gengxin{
+	font-size:12px;
+	}
+}
+
+
+@media screen and (max-width:900px){
+.phone{
+	max-width:100%;
+	max-height:100%;
+	}
+}
+
+@media screen and (max-width:900px){
+.phonepicture{
+width: 40%;
+    height: 80%;
+    bottom: 40px;
+    right: 3%;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: contain;
+	}	
+}
+
+@media screen and (max-width:900px){
+.content{
+	width:90%;
+	    height: 33%;
+	}
+}
+
+@media screen and (max-width:900px){
+.p-red,.p-green,.p-blue,.p-yellow{
+	width:25%;
+	height:100%;
+	float:left;
+	margin:20px auto 0 ;
+	}
+}
+
+@media screen and (max-width:900px){
+.redwritingup,.greenwritingup,.bluewritingup,.yellowwritingup{
+    margin-top: 10px;
+    text-align: center;
+    color: #373737;
+    font-size: 14px;
+	}
+}
+
+@media screen and (max-width:900px){
+.redwriting,.greenwriting,.bluewriting,.yellowwriting{
+	    display: none;
+	}
+}
+
+@media screen and (max-width:900px){
+.footer{
+	width:100%;
+	    background: transparent;
+	font-size:12px;
+	}
+}
+
+@media screen and (max-width:900px){
+img{
+	width:auto;
+        height:auto;
+        max-width:80%;
+        max-height:80%;
+	}
+}
